@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Sarita Ghosh, a result driven and detail oriented Data Analyst. 
+I am Sarita Ghosh, a passionate Data Professional. 
 ### Welcome to my Github Profile.
 * 🔭 I’m open to any new opportunities in the Data Science Domain.
 * 📫 Email me at: saritaghosh3@gmail.com
