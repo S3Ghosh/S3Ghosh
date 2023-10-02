@@ -1,9 +1,7 @@
 ### Hi there 👋
 I am Sarita Ghosh, a result driven and detail oriented Data Analyst. 
 ### Welcome to my Github Profile.
-* Take a look at my personal website: [My Personal Website](https://s3ghosh.github.io/SaritaGhosh.github.io/)
-* My Portfolio Projects are in : [My Portfolio Projects](https://github.com/S3Ghosh/Data_Analyst_Portfolio_Projects)
-* 🔭 I’m currently looking for new opportunities in the Data analyst Domain.
+* 🔭 I’m open to any new opportunities in the Data Science Domain.
 * 📫 Email me at: saritaghosh3@gmail.com
 <!--
 **S3Ghosh/S3Ghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
