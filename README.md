@@ -1,6 +1,6 @@
 👋 Hi there, I'm Sarita Ghosh
 
-📊 Data Analyst | Python & SQL Enthusiast | Storytelling with Data
+📊 Data Analyst | Python & SQL | Storytelling with Data | ML Enthusiast
 
 I turn raw data into actionable insights that drive business decisions. Passionate about data cleaning, visualization, and uncovering hidden patterns.
 
