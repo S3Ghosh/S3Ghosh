@@ -1,14 +1,21 @@
-### Hi there 👋
-I am Sarita Ghosh, a Data Analyst. 
-### Welcome to my Github Profile.
-* 🔭 I’m open to any new opportunities in the Data Analytics and Data Science Domain.
-* 📫 Email me at: saritaghosh3@gmail.com
-<!--
-**S3Ghosh/S3Ghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there, I'm Sarita Ghosh
+📊 Data Analyst | Python & SQL Enthusiast | Storytelling with Data
 
-Here are some ideas to get you started:
+I turn raw data into actionable insights that drive business decisions. Passionate about data cleaning, visualization, and uncovering hidden patterns.
 
+🔹 What I Do:
 
+Clean, analyze, and visualize data using Python (Pandas, NumPy, Matplotlib/Seaborn), SQL, and Tableau/Power BI.
+
+Build interactive dashboards to simplify complex data stories.
+
+Solve real-world problems with statistical modeling and machine learning:
+
+Regression/Classification (XGBoost, Random Forest, Logistic Regression)
+
+Clustering & Dimensionality Reduction (K-Means, PCA)
+
+Data-Driven Decision Making: Combine business acumen with technical execution
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
