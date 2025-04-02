@@ -17,6 +17,7 @@ Regression/Classification (XGBoost, Random Forest, Logistic Regression)
 Clustering & Dimensionality Reduction (K-Means, PCA)
 
 Data-Driven Decision Making: Combine business acumen with technical execution
-Let’s connect & discuss ML! 🤝
+
+Let’s connect & discuss Analytics! 🤝
 
 📫 Email - 13saritaghosh@gmail.com | 💼 LinkedIn - www.linkedin.com/in/saritaghosh |
